@@ -7,5 +7,5 @@ My First Repository
 Oh, I like Github.
  
  
- REadmi edit3
+ REadmi sed
  on PC
